@@ -1,11 +1,10 @@
 {
-  "name": "boilerplate",
+  "name": "scrapp-react",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
+  "author": "Krzysztof Mianowski",
   "license": "MIT",
   "scripts": {
-    "serve": "live-server public/",
     "build": "webpack",
     "dev-server": "webpack-dev-server"
   },
